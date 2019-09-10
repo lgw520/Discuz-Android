@@ -1,0 +1,14 @@
+qq 腾讯开放平台
+1795199901
+vipservice@2013
+
+微信：
+mengzi8@vip.qq.com
+Comsenz1107
+#define WX_APPID @"wxb41d0fec8fa0d1c6"
+#define WX_APPSECRET @"d4005c8f16678309e7c98b2a1ee82bc0"
+
+
+shareSDK
+1795199901@qq.com
+vipservice@2013

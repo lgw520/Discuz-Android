@@ -1,0 +1,4 @@
+key store: zhangshangluntan
+key alias:zhangshangluntan
+key password: zhangshangluntan
+key store path :F:\ZSLTWorhspace\Android\ZSLT1.0\ZhangShangLunTan\zhangshangluntan.jks
